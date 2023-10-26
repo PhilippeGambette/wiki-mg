@@ -18,3 +18,15 @@ An Excel file obtained from pages.csv by trying to filter some pages which are n
 * column L provides a direct link (generated from the page title)
 * column M provides a (very, absurdly) rough estimation of the number of words corresponding to the text size
 * column N provides this value only for pages which seem relevant to keep (therefore, there is a filter on this column)
+
+## Requêtes Wikidata listant les éléments Wikidata associés à une page Wikipédia en malgache
+Les images ci-dessous correspondent aux résultats des requêtes le 26/10/2023
+### Êtres humains
+http://w.wiki/7uni (35625 éléments) :
+![Pays de citoyenneté des éléments Wikidata correspondant à des êtres humains avec une page Wikidata en malgache!](w.wiki-7uni.png "Pays de citoyenneté des éléments Wikidata correspondant à des êtres humains avec une page Wikidata en malgache")
+### Éléments wikidata hors êtres humains avec les natures les plus fréquentes
+http://w.wiki/7unb (45703 éléments) :
+![Nature des éléments Wikidata de nature commune française, astéroïde, ville aux États-Unis, municipalité du Brésil et page de catégorie d'un projet Wikimédia, avec une page Wikidata en malgache!](w.wiki-7unb.png "Nature des éléments Wikidata de nature commune française, astéroïde, ville aux États-Unis, municipalité du Brésil et page de catégorie d'un projet Wikimédia, avec une page Wikidata en malgache")
+### Éléments wikidata hors êtres humains, communes françaises, astéroïdes, villes aux États-Unis, municipalités du Brésil et pages de catégorie d'un projet Wikimédia avec les natures les plus fréquentes
+http://w.wiki/7unQ (34977 éléments) :
+![Nature des éléments Wikidata hors êtres humains, communes françaises, astéroïdes, villes aux États-Unis, municipalités du Brésil et pages de catégorie d'un projet Wikimédia, avec une page Wikidata en malgache!](w.wiki-7unQ.png "Nature des éléments Wikidata hors êtres humains, communes françaises, astéroïdes, villes aux États-Unis, municipalités du Brésil et pages de catégorie d'un projet Wikimédia, avec une page Wikidata en malgache")
